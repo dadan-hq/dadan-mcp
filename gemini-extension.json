@@ -1,0 +1,10 @@
+{
+  "name": "dadan",
+  "version": "1.0.0",
+  "description": "Record, edit, transcribe, translate and share videos with Dadan (70 tools, OAuth).",
+  "mcpServers": {
+    "dadan": {
+      "httpUrl": "https://mcp.dadan.io/mcp"
+    }
+  }
+}
