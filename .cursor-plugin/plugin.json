@@ -1,0 +1,10 @@
+{
+  "name": "dadan",
+  "description": "Record, edit, transcribe, translate and share videos with Dadan. 70 tools, OAuth sign-in, free on all plans.",
+  "version": "1.0.0",
+  "author": { "name": "Dadan" },
+  "homepage": "https://www.dadan.io/dadan-mcp",
+  "repository": "https://github.com/dadan-hq/dadan-mcp",
+  "license": "MIT",
+  "keywords": ["video", "transcription", "translation", "screen-recording", "mcp"]
+}
