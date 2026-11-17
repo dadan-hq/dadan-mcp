@@ -28,6 +28,23 @@ The first time a tool runs, a browser window opens so you can sign in to Dadan.
 
 Use the same URL (`https://mcp.dadan.io/mcp`) as a remote/custom MCP server in Claude, ChatGPT, Cursor, VS Code and other MCP clients.
 
+## Install in Windsurf / Devin Desktop
+
+Add this to `.devin/mcp_config.json` (project) or `~/.config/devin/mcp_config.json` (user):
+
+```json
+{
+  "mcpServers": {
+    "dadan": {
+      "url": "https://mcp.dadan.io/mcp",
+      "transport": "http"
+    }
+  }
+}
+```
+
+Sign in to Dadan when prompted (OAuth).
+
 ## Links
 
 - Docs: https://www.dadan.io/dadan-mcp
